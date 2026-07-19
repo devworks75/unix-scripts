@@ -1,4 +1,7 @@
 #this is s a unix sample file
 added a new linein this file in dev
    added  the secondline
+added a new line in the main branch
+added a third line in main branch
+added secondline
 
